@@ -72,6 +72,6 @@ Here we are given a pcapng file so at first loading the file in wireshark and ou
 the challenge description says Only the people who attended the presentation on "Getting Started with CTF 101" can solve this challenge. Did you attend?
 since i had attended the session we got to see a flag at the end of binit ghimire's presentation who is also one of the challange authors as hacktoberfest_ctf{TH4NK_Y0U_F0R_4TT3ND1NG!}
     
-# WEB(HARD)
+# WEB (HARD)
 THIS BEING ONE OF MY FAVOURITE CHALLANGE I MADE A VIDEO ITSELF ON IT EXPLAINING EVERY STEP IN DETAIL AND HERE IS THE LINK TO THE VIDEO
 https://youtu.be/NK0B9aMwJIk 
